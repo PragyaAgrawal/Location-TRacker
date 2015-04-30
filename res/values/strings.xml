@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">GPSProfiler</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_add_location">AddLocation</string>
+    <string name="title_activity_map_view">MapView</string>
+    <string name="title_section3">Reminder</string>
+    <string name="title_section2">Map</string>
+    <string name="title_section1">Details</string>
+    <string name="title_activity_tab">TabNav</string>
+    <string name="map_lock">LOCK</string>
+    <string name="map_unlk">UNLOCK</string>
+    <string name="add_new_location">Add New Location</string>
+    <string name="app_service">GPSProfiler_Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_reminder_dialog">ReminderDialog</string>
+    <string name="rem_dialog">Reminder</string>
+    <string name="ringtxt">Set Ringtones</string>
+    <string name="empty_reminder">Reminder Not Set.</string>
+    <string name="profile_name">Profile Name:  </string>
+    <string name="address">Address:  </string>
+    <string name="latlang">Lat/Long:: </string>
+    <string name="vibrt">Vibrate</string>
+    <string name="volume">Volume: </string>
+    <string name="ringtn">Ringtones: </string>
+    <string name="silent">Silent</string>
+    <string name="remnck">Reminder</string>
+    <string name="wifi">WiFi</string>
+    <string name="getloc">Get Current</string>
+    <string name="searchin">Searching ....</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+    <string name="not_support_gps">GPS provider not supported</string>
+    <string name="not_support_network">Network provider not supported</string>
+    <string name="enable">Enabled</string>
+    <string name="disable">Disabled</string>
+    <string name="loading">Getting Current Location</string>
+    <string name="map_search">Search Location</string>
+    <string name="map_type">MapType</string>
+    <string name="mapNormal">Normal</string>
+    <string name="mapSatellite">Satellite</string>
+    <string name="mapTerrain">Terrain</string>
+    <string name="mapHybrid">Hybrid</string>
+    <string name="time_intervals">GPS Time Intervals</string>
+    <string name="summary_timelist">Time interval between location updates</string>
+    <string name="selecttime">Select</string>
+    <string name="helpone">Shows help image</string>
+    <string name="help">Help</string>
+    <string name="maphelp">Long Touch to toggle Map</string>
+
+</resources>
